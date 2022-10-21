@@ -11,4 +11,4 @@ def main(s,n,k):
     answer=s[2:5]
 
     return answer
-print(main('dsadasdasdsa'))
+print(main('dsadasdasdsa',2,5))
