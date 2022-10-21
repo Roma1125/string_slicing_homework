@@ -6,4 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    answer=s[1::2]
+    return answer
+print(main('codadasd'))
