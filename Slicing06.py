@@ -9,4 +9,4 @@ def main(s,n):
     """
     answer=s[n+1:]
     return answer
-print(main('code'2))
+print(main('code',2))
