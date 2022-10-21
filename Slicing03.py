@@ -5,4 +5,7 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    answer=s[1:-1]
+
+    return answer
+print(main('code'))
