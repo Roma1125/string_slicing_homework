@@ -8,7 +8,7 @@ def main(s,n,k):
     Returns:
         str: answer
     """
-    answer=s[2:5]
+    answer=s[n:k]
 
     return answer
 print(main('dsadasdasdsa',2,5))
